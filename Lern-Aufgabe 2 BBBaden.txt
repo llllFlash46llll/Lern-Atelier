@@ -1,0 +1,48 @@
+Lern-Aufgabe 2 BBBaden
+
+Interpretation 1:
+
+10 km/h: Dies bezieht sich wahrscheinlich auf die Windgeschwindigkeit in Kilometern pro Stunde (km/h). Es könnte anzeigen, wie stark der Wind weht.
+
+20%: Dies könnte auf die Wahrscheinlichkeit von Niederschlag hinweisen. Eine Angabe von 20% bedeutet, dass es eine geringe Wahrscheinlichkeit für Regen oder anderen Niederschlag gibt.
+
+Sonnensymbol: Dieses Symbol steht normalerweise für sonniges Wetter. Es könnte darauf hinweisen, dass die Sonne scheint und der Himmel klar ist.
+
+25°C: Dies ist die Temperatur in Grad Celsius. Es gibt an, wie warm es in der Umgebung ist.
+
+Interpretation 2:
+
+Auto(Unplausibel):
+
+10km/h: Geschwindigkeit
+20%: Tankfüllung
+Sonnensymbol: Der wagen ist ein Caprio das bei sonne das dach entfernbar ist.
+25%: Wärme des Motors
+
+ 
+Ziel von System 1:
+
+Wettervorhersage
+
+K:
+1.Satelliten
+2.Radar
+3.Computermodelle
+
+Ziel von System 2:
+
+Online-Shopping-Plattform
+
+K:
+1.Benutzerinterface
+2.Produktverwaltungssystem
+3.Zahlungs-und Abrechnungssystem
+
+Lern-Aufgabe 3
+
+3:
+Noten-> Interpret-> Musik
+
+Lern-Aufgabe 4
+
+Zeichenkette gem. Syntax-> Soziale plattform-> text mit darstellung
