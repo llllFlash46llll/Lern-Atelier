@@ -5,3 +5,9 @@ Ich habe heute ein Programm geschrieben das nach deinem Namen fragt und nach dei
 
 05.09.2023
 Ich habe heute an meinem Programm weitergearbeitet, Ich hatte grosse Schwierigkeiten das Problem von letztes mal zu beheben, jedoch konnte ich es trotzdem meistern.  Ich hab mir gedanken gemacht was man sonst noch ins Programm reinschreiben könnte. Der heutige Tag war nicht so erfolgreich. Aber ich hab gelernt wie man gewisse multiple choice Antworts-Probleme behebt. Dass nächste mal nehme ich mir vor es noch Complexer zu machen und noch das Programm zu erweitern damit es noch besser wird. 78 Wörter
+
+12.09.2023
+Ich hab an den Modulen weitergearbeitet da mir aufgefallen ist das ich einbisschen im Rückstand bin. Das nächste mal hab ich eigentlich auch wieder vor an den Modulen zu arbeiten.
+Programm
+| Nummer | Vorbereitung | Eingabe | Ausgabe |
+| 1 | Ich klicke auf start und der Computer interagiert mit mir| Ich beantworte fragen und drücke enter | Er gibt mir eine gerechte Antwort auf meine Antwort|
