@@ -9,5 +9,5 @@ Ich habe heute an meinem Programm weitergearbeitet, Ich hatte grosse Schwierigke
 12.09.2023
 Ich hab an den Modulen weitergearbeitet da mir aufgefallen ist das ich einbisschen im Rückstand bin. Das nächste mal hab ich eigentlich auch wieder vor an den Modulen zu arbeiten.
 Programm
-| Nummer | Vorbereitung | Eingabe | Ausgabe |
-| 1 | Ich klicke auf start und der Computer interagiert mit mir| Ich beantworte fragen und drücke enter | Er gibt mir eine gerechte Antwort auf meine Antwort|
+|Nummer|Vorbereitung|Eingabe|Ausgabe|
+|1|Ich klicke auf start und der Computer interagiert mit mir|Ich beantworte fragen und drücke enter|Er gibt mir eine gerechte Antwort auf meine Antwort|
