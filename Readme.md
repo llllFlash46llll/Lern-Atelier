@@ -18,7 +18,7 @@ Heute will ich:
 - [x] An Modul 431 arbeiten: 6905 Auftrag
 - [ ] Auch 6906
 - [ ] Auch 6907
-- [ ] Konsole einfärben auf Benutzerinput
+- [X] Konsole einfärben auf Benutzerinput
 
 
 
