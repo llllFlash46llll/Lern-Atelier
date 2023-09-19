@@ -11,3 +11,18 @@ Ich hab an den Modulen weitergearbeitet da mir aufgefallen ist das ich einbissch
 Programm
 |Nummer|Vorbereitung|Eingabe|Ausgabe|
 |1|Ich klicke auf start und der Computer interagiert mit mir|Ich beantworte fragen und drücke enter|Er gibt mir eine gerechte Antwort auf meine Antwort|
+
+## 19.9
+Heute will ich:
+
+* An Modul 431 arbeiten: 6905 Auftrag
+* Auch 6906
+* Auch 6907
+* Konsole einfärben auf Benutzerinput
+
+Heute habe ich...
+
+## 26.9
+
+
+
