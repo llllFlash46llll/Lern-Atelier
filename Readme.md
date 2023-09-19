@@ -19,6 +19,7 @@ Heute will ich:
 - [ ] Auch 6906
 - [ ] Auch 6907
 - [X] Konsole einfärben auf Benutzerinput
+
 Heute hab ich die Programmfarbe geändert  und Modul 431 5 Beendet und danach noch mit Modul 6 angefangen.Ich konnte es jedoch noch nicht beenden und Plane es eben noch zu beenden. Ich werde auch noch an meinem Programm weiterarbeiten, aber ich hab vor bisschen zu gestalten und werde also ein Smiley einprogrammieren. 
 
 
