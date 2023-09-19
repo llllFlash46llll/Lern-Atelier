@@ -16,11 +16,11 @@ Programm
 Heute will ich:
 
 - [ ] An Modul 431 arbeiten: 6905 Auftrag
-* Auch 6906
-* Auch 6907
-* Konsole einfärben auf Benutzerinput
+- [ ] Auch 6906
+- [ ] Auch 6907
+- [ ] Konsole einfärben auf Benutzerinput
 
-Heute habe ich...
+
 
 ## 26.9
 
