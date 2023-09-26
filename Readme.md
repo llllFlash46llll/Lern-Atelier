@@ -25,11 +25,18 @@ Heute will ich:
 
 ## 26.9
 
-- [ ] Modul431 (6906)
+- [x] Modul431 (1706)
 - [ ] Smiley auf Konsole programmieren
 - [ ] Modul431 (6907)
 - [ ] Modul431 (6908)
+## Reflexion
+Ich hab heute Modul 1706 mit leichtigkeit erledigen, bin jedoch beim smiley stecken geblieben da ich irgendwie nicht wirklich weiterkomme und nicht weiss wie genau ich es programmieren sollte. Ich habe es mit verschiedenen Hilfsmittel versucht und hab es dennoch nicht rausbekommen. Da ich 1h daran gearbeitet habe war ich ziemlich demotiviert als ich es nicht herausfinden konnte. Der smiley hätte Gelb sein sollen mit Augen und Mund aber ich hab nicht heruasgefunden wie ich den Befehl überhaupt rausgebe um diesen Strich zu machen. Aber ich hab geplannt es nächstes mal herauszufinden da ich weiss es geht ich weiss einfach noch nicht wie. 
 
+## Selbstverbesserung
+Ich müsste aufhören so fustriert zu sein wenn ich nicht hinkriege was ich hinkriegen möchte.
 
 ## 
 
+- [ ] Smiley auf Konsole programmieren
+- [ ]
+- [ ]
