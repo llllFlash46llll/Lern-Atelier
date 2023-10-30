@@ -35,15 +35,19 @@ Ich hab heute Modul 1706 mit leichtigkeit erledigen, bin jedoch beim smiley stec
 ## Selbstverbesserung
 Ich müsste aufhören so fustriert zu sein wenn ich nicht hinkriege was ich hinkriegen möchte.
 
-## 
 
-- [ ] Smiley auf Konsole programmieren
-- [ ]
-- [ ]
-
+## Grobplanung bis zu den Winterferien:
+- [ ] Ziel der Programmierung ist es die verbrachte Lebenszeit in Tage oder Monate anzugeben inkl. eigener Schätzung
+- [ ] Smiley auf Konsole einblenden als Antwort auf eine "wie fühlstdu dich" Frage
+- [ ] Abfrage des Wohnort inkl. individuelle Antwort je nach Eingabe
+- [ ] Abfrage mit drei Optionen übereine ToDoListe. Je nach Angabe erhält der User eine vorkonfigurierte ToDo Liste
+- [ ] Frage den User ob er zur Abwechsung ein TicTacToe Spiel machen will<
+- [ ] User wird gefragt, mit einer Auswahl, was sein Lieblings oder Wunsch Fahrzeug ist 
+- [ ] Frage über Lieblingssportart mit einer Auswahl inkl. Antwort
+- [ ] Empfinden über die gestellten Fragen inkl. eine Dankeschön für das mitmachen
 ## 31.10
-- [ ] Smiley auf Konsole programmieren
-- [ ] To do Liste programmieren
-- [ ] Deine Lebenszeit in S,Min,H,W,M
-- [ ] X und O Game programmieren
+- [ ] Wann wird die Frage gestellt?
+- [ ] Ob er es wissen will?
+- [ ] Ob er die Zeit in Tage oder Monate wissen will?
+- [ ] Schätzfrage
 ## Reflexion
