@@ -40,3 +40,10 @@ Ich müsste aufhören so fustriert zu sein wenn ich nicht hinkriege was ich hink
 - [ ] Smiley auf Konsole programmieren
 - [ ]
 - [ ]
+
+## 31.10
+- [ ] Smiley auf Konsole programmieren
+- [ ] To do Liste programmieren
+- [ ] Deine Lebenszeit in S,Min,H,W,M
+- [ ] X und O Game programmieren
+## Reflexion
