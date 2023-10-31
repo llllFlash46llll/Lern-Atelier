@@ -56,3 +56,4 @@ Ich hab einbisschen mehr gemacht als ich wollte aber ich bin definitiv zufrieden
 - [ ] Fragen wie du dich fühlst
 - [ ] Ein Smiley auf dem Bildschirm auftauchen lassen der sich andeinem Gefühl anpasst.
 - [ ] Das Programm leicht umprogrammieren damit das ganze programm richtig läuft.
+## Reflexion
