@@ -37,7 +37,7 @@ Ich müsste aufhören so fustriert zu sein wenn ich nicht hinkriege was ich hink
 
 
 ## Grobplanung bis zu den Winterferien:
-- [ ] Ziel der Programmierung ist es die verbrachte Lebenszeit in Tage oder Monate anzugeben inkl. eigener Schätzung
+- [x] Ziel der Programmierung ist es die verbrachte Lebenszeit in Tage oder Monate anzugeben inkl. eigener Schätzung
 - [ ] Smiley auf Konsole einblenden als Antwort auf eine "wie fühlstdu dich" Frage
 - [ ] Abfrage des Wohnort inkl. individuelle Antwort je nach Eingabe
 - [ ] Abfrage mit drei Optionen übereine ToDoListe. Je nach Angabe erhält der User eine vorkonfigurierte ToDo Liste
@@ -46,8 +46,13 @@ Ich müsste aufhören so fustriert zu sein wenn ich nicht hinkriege was ich hink
 - [ ] Frage über Lieblingssportart mit einer Auswahl inkl. Antwort
 - [ ] Empfinden über die gestellten Fragen inkl. eine Dankeschön für das mitmachen
 ## 31.10
-- [ ] Wann wird die Frage gestellt?
-- [ ] Ob er es wissen will?
-- [ ] Ob er die Zeit in Tage oder Monate wissen will?
+- [x] Wann wird die Frage gestellt?
+- [x] Ob er es wissen will?
+- [x] Ob er die Zeit in Tage oder Monate wissen will?
 - [ ] Schätzfrage
 ## Reflexion
+Ich hab einbisschen mehr gemacht als ich wollte aber ich bin definitiv zufrieden mit was ich erledigt habe. Ich habe jetzt die monate und die tage von deiner Lebenszeit. ich habe auch loops gelernt und mir ein paar Sachen erklären lassenvom Lehrer. Ich konnte die Schätzfrage nicht machen da im Programm wichtigere Probleme aufgetaucht sind  wie das dass Programm zu früh beendet wird.
+## 7.11
+- [ ] Fragen wie du dich fühlst
+- [ ] Ein Smiley auf dem Bildschirm auftauchen lassen der sich andeinem Gefühl anpasst.
+- [ ] Das Programm leicht umprogrammieren damit das ganze programm richtig läuft.
