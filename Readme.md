@@ -60,4 +60,9 @@ Ich hab einbisschen mehr gemacht als ich wollte aber ich bin definitiv zufrieden
 ## 14.11
 - [x] Weiterarbeiten an Projekt Kohler
 ## Reflexion
-Ich und meine Gruppen haben uns für das Projekt Kohler entschieden, wir haben heute auch weiter gearbeitet. Es geht um ein Ideengenerator der für Kurzgeschichten gemacht werden sollte.
+Ich hatte eigentlich für die nächsten paar Wochen was anderes geplant jedoch haben wir einen Interessanten Auftrag erhalten. Ich und meine Gruppen haben uns für das Projekt Kohler entschieden, wir haben heute auch weiter gearbeitet. Es geht um ein Ideengenerator der für Kurzgeschichten gemacht werden sollte. Der Auftrag kommt von unserer Deutsch-Lehrerin. Wir planen in dem Ideen Generator ca 5 oder mehr Kategorien zu machen, jeder dieser Kategorien hat ein Haufen von Möglichkeiten die raus kommen sollte, wir wollen es auch so programmieren das es sinn macht was raus kommt.
+
+## 21.11
+- [ ] Programm Fehlerfrei machen
+- [ ] Programm durch testen
+- [ ] An Programm weiterarbeiten
