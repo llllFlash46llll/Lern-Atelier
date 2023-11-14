@@ -57,3 +57,7 @@ Ich hab einbisschen mehr gemacht als ich wollte aber ich bin definitiv zufrieden
 - [ ] Ein Smiley auf dem Bildschirm auftauchen lassen der sich andeinem Gefühl anpasst.
 - [ ] Das Programm leicht umprogrammieren damit das ganze programm richtig läuft.
 ## Reflexion
+## 14.11
+- [x] Weiterarbeiten an Projekt Kohler
+## Reflexion
+Ich und meine Gruppen haben uns für das Projekt Kohler entschieden, wir haben heute auch weiter gearbeitet. Es geht um ein Ideengenerator der für Kurzgeschichten gemacht werden sollte.
